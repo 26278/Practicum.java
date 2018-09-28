@@ -7,8 +7,9 @@ public class practicum
         boolean pindakaas = true;
 
         String stukkieTekst = "Pingu ";
-        String andereTekst = "is great anime";
-        String samenTekst = stukkieTekst + andereTekst;
+        String andereTekst = "is great ";
+        String nieuweTekst = "anime";
+        String samenTekst = stukkieTekst + andereTekst + nieuweTekst;
 
         int getalA = 123;
         float getalB = 5.5f;
